@@ -1,5 +1,4 @@
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts		
-Migrated from /etc/pihole/adlists.list
 https://raw.githubusercontent.com/rafaelsc/easylist-ptbr/master/adblock-rules.txt		
 https://github.com/FadeMind/hosts.extras		
 https://github.com/zangadoprojets/pi-hole-blocklist/blob/main/spam.mails.txt		
